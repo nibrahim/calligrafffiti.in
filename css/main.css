@@ -1,0 +1,52 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+h2 { 
+     font-family: 'Fondamento', cursive;
+     font-weight: 400; 
+     text-align:center;
+     }
+
+div.hero-unit { 
+                background-color: transparent;
+                margin:0;
+                padding:0;
+                font-family: 'Tangerine', cursive;
+                font-size: 2em;
+ }
+
+
+
+ul.navbar { 
+            margin: 3em 0 0 0;
+            padding: 0;
+ }
+
+ul.navbar li { 
+               display: inline-block;
+               font-size: 0.7em;
+               
+ }
+
+
+p.subtitle { 
+             font-size: 1em;
+             margin:0;
+             padding:0;
+             line-height: 1em;
+ }
+
+div.post { 
+ }
+
+footer { 
+                font-family: 'Tangerine', cursive;
+         font-size: 2em;
+ }
+p.date { 
+         font-size:0.7em;
+ }
