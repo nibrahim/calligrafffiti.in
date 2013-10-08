@@ -4,8 +4,9 @@ title: Calligraffiti.in
 ---
 
 <div id="home">
-  {{ site.posts.first.content }}
-
+  <div id="first">
+    {{ site.posts.first.content }}
+  </div>
   <h2>Archives</h2>
   <ul class="posts">
     {% for post in site.posts %}
