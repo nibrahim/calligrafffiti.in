@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Analysis"
+date: "2013-10-30 23:23:59 +0530"
+---
+
+![Analyis of earlier piece](/img/analysis1.jpg)
+
+A practice page based on an earlier piece.
