@@ -1,0 +1,9 @@
+---
+layout: post
+title: "analysis"
+date: "2013-10-31 00:20:24 +0530"
+---
+
+![Analysis of Canticle piece](/img/analysis0.jpg)
+
+This is a sheet where I analyse the earlier canticle piece and try to fix the mistakes in it.
