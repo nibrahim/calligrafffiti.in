@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Make quality an requirements issue"
+title: "Make quality a requirements issue"
 date: "2014-01-02 00:08:11 +0530"
 ---
 
