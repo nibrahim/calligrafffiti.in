@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Tony Benn"
+date: "2014-03-20 23:54:42 +0530"
+---
+
+![Footprints in the sands of time](/img/tony-benn0.jpg)
+
+A quotation by the late British Labour politician [Tony Benn](http://en.wikipedia.org/wiki/Tony_Benn).
+
+And a closeup with some of the detail.
+
+![Close up](/img/tony-benn1.jpg)
+
+The red ink is especially bad and easily gets soaked by the paper. 
